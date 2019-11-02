@@ -1,5 +1,5 @@
 //
-// Created by giacomo on 13/10/2019.
+// Created by datagram-db on 13/10/2019.
 //
 
 #ifndef SKELETON_CPPITERATORS_H
